@@ -1,20 +1,22 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "credit-survival-analysis"
+title: "credit-survival-analysis: Survival models and machine learning for Korean corporate credit risk"
 abstract: >-
-  Survival models for Korean corporate credit risk assessment: Kaplan-Meier, Cox proportional hazards and random survival forest compared on credit panel data.
+  Analysis code for Korean corporate credit risk assessment: Cox proportional
+  hazards models, random survival forests, and evaluation pipelines.
 type: software
 version: 0.1.0
-date-released: "2026-11-23"
+date-released: "2026-11-25"
 license: MIT
 repository-code: "https://github.com/DongsooJung/credit-survival-analysis"
 keywords:
-  - survival-analysis
-  - credit-risk
-  - cox-model
-  - random-survival-forest
-  - finance
-  - python
+  - survival analysis
+  - Cox model
+  - random survival forest
+  - credit risk
+  - machine learning
+  - Korea
+  - reproducibility
 authors:
   - family-names: Jung
     given-names: Dongsoo
